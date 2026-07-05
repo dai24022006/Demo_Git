@@ -59,3 +59,16 @@ p {
 p.show {
   opacity: 1;
 }
+#login-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#login-btn:hover {
+  background-color: #0056b3; /* Đổi màu đậm hơn khi di chuột vào */
+}
